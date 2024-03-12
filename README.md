@@ -19,7 +19,14 @@
 
 
 # Featured Projects
-https://github.com/harshitadhikari-1122/node.js-notes-app
+
+- [Node.js Notes App](https://github.com/harshitadhikari-1122/node.js-notes-app)
+  - Description: This project is a simple notes app built using Node.js.
+  - Technologies: Node.js, MongoDB
+
+![Screenshot]
+![Uploading Screenshot (22).png…]()
+
 
 
 
