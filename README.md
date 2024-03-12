@@ -18,3 +18,8 @@
 [![](https://visitcount.itsvg.in/api?id=harshitadhikari-1122&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+# Featured Projects
+![](https://github.com/harshitadhikari-1122/node.js-notes-app)
+
+
+
