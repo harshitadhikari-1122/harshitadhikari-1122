@@ -24,7 +24,7 @@
   - Description: This project is a simple notes app built using Node.js.
   - Technologies: Node.js, MongoDB
 
-![Screenshot]
+
 ![Uploading Screenshot (22).png…]()
 
 
