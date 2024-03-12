@@ -19,7 +19,7 @@
 
 
 # Featured Projects
-![](https://github.com/harshitadhikari-1122/node.js-notes-app)
+https://github.com/harshitadhikari-1122/node.js-notes-app
 
 
 
