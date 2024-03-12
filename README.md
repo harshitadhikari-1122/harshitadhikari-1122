@@ -18,13 +18,20 @@
 [![](https://visitcount.itsvg.in/api?id=harshitadhikari-1122&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-# Featured Projects
+### Featured Projects
 
 - [Node.js Notes App](https://github.com/harshitadhikari-1122/node.js-notes-app)
   - Description: This project is a simple notes app built using Node.js.
   - Technologies: Node.js, MongoDB
 
-![Screenshot](https://i.imgur.com/notes.png)
+- [Potato Classification App](https://github.com/harshitadhikari-1122/Potato_Classification-app)
+  - Description: This project classifies healthy and diseased leaves of potato using deep learning (CNN).
+  - Technologies: React.js, FastAPI, deep learning (CNN)
+
+
+
+Feel free to check out my repositories and projects!
+
 
 
 
