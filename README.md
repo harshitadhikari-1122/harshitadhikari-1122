@@ -1,7 +1,7 @@
 # Hi,I'm Harshit Adhikari
 
 # 💫 About Me:
-🔭 I’m currently learning backend development to enhance my full-stack skills.<br>🎓 I'm a pre-final student in B.Tech.<br>💼 I'm looking for a position where I can further develop my skills.<br>📧 You can reach me at harshitadhikari9013@gmail.com.<br>
+🔭 I’m a Full-Stack Developer (MERN).<br>🎓 Currently exploring new opportunities to expand my skillset.<br>💼 Seeking a position where I can further develop my skills.<br>📧 Reach me at harshitadhikari9013@gmail.com.<br>
 
 
 ## 🌐 Socials:
