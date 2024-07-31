@@ -1,8 +1,7 @@
 # Hi,I'm Harshit Adhikari
 
 # 💫 About Me:
-🔭 I’m a Full-Stack Developer (MERN).<br>🎓 Currently exploring new opportunities to expand my skillset.<br>💼 Seeking a position where I can further develop my skills.<br>📧 Reach me at harshitadhikari9013@gmail.com.<br>
-
+🔭 I’m a Full-Stack Developer specializing in the MERN stack.<br>🎓 Currently an Associate Software Engineer at Accenture, exploring new opportunities to expand my skillset and contribute to innovative projects.<br>💼 Open to collaborations and networking.<br>📧 Feel free to reach out at harshitadhikari9013@gmail.com.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshit-adhikari-11h22p) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@HarshitP2211) 
